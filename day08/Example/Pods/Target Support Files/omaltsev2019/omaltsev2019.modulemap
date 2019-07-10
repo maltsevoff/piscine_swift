@@ -1,0 +1,6 @@
+framework module omaltsev2019 {
+  umbrella header "omaltsev2019-umbrella.h"
+
+  export *
+  module * { export * }
+}

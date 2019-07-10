@@ -1,0 +1,16 @@
+PODS:
+  - omaltsev2019 (0.1.0)
+
+DEPENDENCIES:
+  - omaltsev2019 (from `../`)
+
+EXTERNAL SOURCES:
+  omaltsev2019:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  omaltsev2019: 3ddf09faf3c2c87d355e52873384669847d229a1
+
+PODFILE CHECKSUM: 44192218aca56638979a703c16fad1c71c264909
+
+COCOAPODS: 1.7.3
